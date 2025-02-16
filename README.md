@@ -8,7 +8,6 @@ Bad Apple is a utility for managing Wi-Fi networks using `hostapd`, as well as r
 - **setpass `<PASSWORD>` `<SSID>`**: Set a password for the Wi-Fi network.
 - **rmpass `<SSID>`**: Remove the password for the Wi-Fi network.
 - **getinfo**: Display device information (OS, model, username, public IP).
-- **BadAppleSong**: Open the "Bad Apple" song on YouTube.
 - **exit**: Exit the application.
 
 ## Requirements:
